@@ -1,0 +1,3 @@
+[submodule "lolapi"]
+	path = lolapi
+	url = git@github.com:sicozz/lolapi.git
